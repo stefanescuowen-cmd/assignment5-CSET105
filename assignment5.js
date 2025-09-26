@@ -15,3 +15,6 @@ console.log(people);
 
 people.push("Owen");
 console.log(people);
+
+let newPeople = people.slice(2);
+console.log(newPeople);
