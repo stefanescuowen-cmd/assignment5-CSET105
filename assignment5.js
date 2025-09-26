@@ -6,3 +6,6 @@ for (let person of people){
 
 people.shift();
 console.log(people);
+
+people.pop();
+console.log(people);
