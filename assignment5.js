@@ -1,3 +1,5 @@
+const prompt = require ("prompt-sync")();
+
 let people = ["Greg", "Mary", "Devon", "James"];
 
 for (let person of people){
