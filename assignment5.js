@@ -9,3 +9,6 @@ console.log(people);
 
 people.pop();
 console.log(people);
+
+people.unshift("Matt");
+console.log(people);
