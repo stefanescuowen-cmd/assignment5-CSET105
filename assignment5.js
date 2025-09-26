@@ -21,3 +21,7 @@ console.log(newPeople);
 
 console.log(people.indexOf("Mary"));
 console.log(people.indexOf("Foo"));
+
+people = ["Greg", "Mary", "Devon", "James"];
+people.splice(2, 1, "Elizabeth", "Artie");
+console.log(people);
