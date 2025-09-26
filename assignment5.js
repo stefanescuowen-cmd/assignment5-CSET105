@@ -1,0 +1,1 @@
+let people = ["Greg", "Mary", "Devon", "James"];
