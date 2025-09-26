@@ -18,3 +18,6 @@ console.log(people);
 
 let newPeople = people.slice(2);
 console.log(newPeople);
+
+console.log(people.indexOf("Mary"));
+console.log(people.indexOf("Foo"));
